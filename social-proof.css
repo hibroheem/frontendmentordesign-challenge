@@ -1,0 +1,119 @@
+h1 {
+    color: rgb(95, 16, 95);
+    font-size: 50px;
+}
+.div1 {
+    width: 40%;
+    float: left;
+    margin-top: 100px;   
+    
+}
+p {
+    font-size: 15px;
+    display: inline;
+}
+#div1 {
+    background-color: rgb(236, 214, 236);
+    margin-top: 180px;
+    margin-right: 250px;
+    padding-right: 10%;
+    border-radius: 5px;
+    padding-left: 20px;
+    float: right;
+    width: 25%;
+
+    
+}
+div img {
+    margin-left: 5px;
+}
+div p{
+    display: inline-block;
+    color: rgb(80, 11, 80);
+    font-size: 10px;
+    margin-left: 50px;
+    font-weight: bolder;
+}
+#div2 {
+    background-color: rgb(236, 214, 236);
+    margin-right: 250px;
+    margin-top: 10px;
+    float: right;
+    border-radius: 5px;
+    width: 500px;
+    padding-left: 30px;
+    transform: translate(25px);
+    
+    
+    
+}
+#div3 {
+    background-color: rgb(236, 214, 236);
+    float: right;
+    margin-top: 10px;
+    padding-left: 50px;
+    margin-right: 190px;
+    border-radius: 5px;
+    width: 450px;
+    transform: translate(5px);
+}
+.div4 {
+    width: 450px;
+    margin-left: 0px;
+    color: rgb(153, 100, 153);
+}
+#div5 {
+    background-color: rgb(48, 5, 48);
+    width: 30%;
+    display: inline-block;
+    padding-top: 25px;
+    padding-left: 20px;
+    border-radius: 5px;
+    padding-bottom: 50px;
+}
+.colton {
+    border-radius: 100px;
+    display: inline-block;
+    width: 45px;
+}
+.smith {
+    color: purple;
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 150px;
+}
+div::first-line {
+    color: white;
+}
+.exc {
+    color: white;
+    margin-top: 35px;
+    width: 95%;
+    font-style: oblique;
+}
+#div6 {
+    background-color: rgb(48, 5, 48);
+    width: 30%;
+    display: inline-block;
+    padding-top: 25px;
+    padding-left: 20px;
+    border-radius: 5px;
+    padding-bottom: 50px;
+    margin-left: 25px;
+    transform: translate(5px, 20px);
+}
+#div7 {
+    background-color: rgb(48, 5, 48);
+    width: 30%;
+    display: inline-block;
+    padding-top: 25px;
+    padding-left: 20px;
+    border-radius: 5px;
+    padding-bottom: 50px;
+    margin-left: 25px;
+    transform: translate(5px, 35px);
+}
+body {
+    background-image: url(images/bg-pattern-bottom-desktop.svg);
+}
